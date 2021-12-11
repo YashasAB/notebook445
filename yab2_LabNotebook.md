@@ -72,7 +72,7 @@ Insert photo of graph
 
 The frequencies we can produce with these limited voltage outputs may not be exactly the same as a certain musical notes frequency we are aiming to produce. 
 
-Code to find frequencies we can produce based on the voltage values we can produce
+Code to find frequencies we can produce based on the voltage values we can produce-
 
 insert pic of code that gives freqs we can produce
 
@@ -108,7 +108,7 @@ Still going through issues with PCB. unable to figure out what and why. Need to 
 
 Decided to make a switch and produce different voltages for different inputs. Basically analog write different values that produce different voltages based on keycode input.
 
-Few examples -
+Pseudo Code -
 
  insert switch code
 
@@ -135,9 +135,10 @@ Decided to try and see what is wrong with the PCB so we can at least show some p
 
 Used a potentiostat, power supply as well as a breadboard to simulate a VCO to see if the knobs could do anything to the waves we were able to produce.
 
+Belo picture shows this set up and the point we were probing on the oscilloscope. Thankfully, we saw that we were able to control the amplitude and frequency of this wave and were able to demo it!
+
 Insert image of fake vco 
 
-Thankfully, we saw that we were able to control the amplitude and frequency of this wave and were able to demo it!
 
 # 3rd December 2021 - Mock presentation advice
 
