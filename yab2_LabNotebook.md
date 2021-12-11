@@ -53,7 +53,7 @@ I highly preferrred using the Teensy36 Development board as it has all the featu
 
 ![Image](teensy.png)
 
-insert picture of teensy 36 and its features
+
 
 
 # 4th October 2021 - Coming up with tolerance analysis
@@ -64,12 +64,12 @@ Atmega has 980 Hz Duty cycle. So using PWM we can create only certain specific v
 
 **2.5 𝑉 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑠 440𝐻𝑧 𝑎𝑛𝑑 𝑒𝑣𝑒𝑟𝑦 𝑖𝑛𝑐𝑟𝑒𝑎𝑠𝑒 𝑜𝑟 𝑑𝑒𝑐𝑟𝑒𝑎𝑠𝑒 𝑏𝑦 1.2𝑉 𝑤𝑖𝑙𝑙 𝑑𝑜𝑢𝑏𝑙𝑒 𝑜𝑟 h𝑎𝑙𝑓 𝑡h𝑒 𝑓𝑟𝑒𝑞𝑢𝑒𝑛𝑐𝑦**
 
-Insert photo of formula 
+![Image](formula.png)
 
 
 Here is a graph that shows the frequencies we can produce because of limits faced because of the 980Hz duty cycle. 
 
-Insert photo of graph
+![Image](graph.png)
 
 
 
@@ -78,6 +78,7 @@ The frequencies we can produce with these limited voltage outputs may not be exa
 Code to find frequencies we can produce based on the voltage values we can produce-
 
 insert pic of code that gives freqs we can produce
+![Image](freqs_producable.png)
 
 Below code will return the voltage values we can produce in order to produce frequencies closest to a given a list of target frequencies
 
