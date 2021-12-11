@@ -149,7 +149,7 @@ We just placed the rasberry pie inside our box. connected the keyboard through U
 
 # 29th November 2021 - 
 
-used standard sd card reading libraries to recieve sd card input. **Proposed format for one note on file on sd card -  8e5 where the number 8 describes the length of the note , the alphabet declares what note to play and the last number determines what octave the note should be in.** Wrote different files with a series of key notes. Used the number pad on the top row of the keyboard to switch between tracks. 
+Used standard sd card reading libraries to recieve sd card input. **Proposed format for one note on file on sd card -  8e5 where the number 8 describes the length of the note , the alphabet declares what note to play and the last number determines what octave the note should be in.** Wrote different files with a series of key notes. Used the number pad on the top row of the keyboard to switch between tracks. 
 
 
 # 30th November - Trying to fix PCB
