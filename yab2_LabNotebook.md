@@ -22,6 +22,18 @@ Need to make PCB Design
 
 My role basically now involves waiting for parts and then assisting with the code to make the Atmega read keycode inputs and then produce different voltage outputs for it. 
 
+# 8th September 2021 
+
+Finalized the subsystems! Decided to have 4. 
+
+- MIDI subsystem - take in inputs and send out voltage out to synthesizer subsystem
+- Synthesizer subsystem - taken in voltage input and produces different sounds based on voltage
+- Output Module - Speakers that play sound
+- Power subsystem - to power the rest 
+
+![Image](block.png)
+
+
 # 13th September 2021 - MIDI Module Updates
 
 After getting our design approved we decided to add another feature where the synthesizer can also play back files from an SD card where the files hold a series of keys pressed with their durations. Basically we are trying to read the same data that would be sent in by the MIDI keyboard instead. 
