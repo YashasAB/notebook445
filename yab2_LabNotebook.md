@@ -38,7 +38,6 @@ I need to figure out how to verify my part of the project.
 2) Ability to receive MIDI input and set the variables that determine the voltage produced. To verify this, we will print the variables we are trying to set to the console while pressing keys on the keyboard/letting the microcontroller read from sd card. If we fail, we will have to make software changes to better interpret the MIDI signals which are inputs for our program.
 
 **Proposed data flow**
-insert image of proposed data flow
 
 ![Image](https://github.com/YashasAB/notebook445/blob/main/dataflow.jpeg)
 
@@ -51,6 +50,8 @@ At the PCB review, while we were talking to a lot of TA's about our plan of acti
 I realized that it would be extremely difficult to use the atmega to receive midi input as well as read sd card data and was looking into other possible ways to get across this. 
 
 I highly preferrred using the Teensy36 Development board as it has all the features I needed to implement my part of the project. 
+
+![Image](teensy.png)
 
 insert picture of teensy 36 and its features
 
