@@ -31,7 +31,7 @@ Finalized the subsystems! Decided to have 4.
 - Output Module - Speakers that play sound
 - Power subsystem - to power the rest 
 
-![Image](block.png)
+![Image](blockk.png)
 
 
 # 13th September 2021 - MIDI Module Updates
