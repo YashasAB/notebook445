@@ -149,6 +149,6 @@ After the mock presentation, we got a bunch of advice. Here is what we need to w
 
 # 5th December
 
-** The final plan - I have to introduce the project, state our goals and also describe the high level organization of the subsystems. Michael then goes into detail with all the parts we have. Breanne takes over in the end and talks about what we could achieve wehre we went wrong, conclusions and future plans**
+**The final plan - I have to introduce the project, state our goals and also describe the high level organization of the subsystems. Michael then goes into detail with all the parts we have. Breanne takes over in the end and talks about what we could achieve wehre we went wrong, conclusions and future plans**
 
 
