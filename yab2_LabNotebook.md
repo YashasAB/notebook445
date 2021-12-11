@@ -77,13 +77,12 @@ The frequencies we can produce with these limited voltage outputs may not be exa
 
 Code to find frequencies we can produce based on the voltage values we can produce-
 
-insert pic of code that gives freqs we can produce
+
 ![Image](freqs_producable.png)
 
 Below code will return the voltage values we can produce in order to produce frequencies closest to a given a list of target frequencies
 
-insert closest voltage code screenshot
-        
+![Image](closest_Voltage.png)
 
 We figured that for our tolerance analysis we will take into account the error rate based on how close the frequencies we can produce are to the target frequencies. 
 
@@ -92,7 +91,8 @@ Error = absolute_val (target frequency - frequency we can produce) / target freq
 This is how we calculate our Error!!!
 
 Few examples - 
-Insert pic of top 3 rows of error 
+
+![Image](top3.png)
 
 # 15th October 2021 - Parts list Discussion
 
@@ -114,7 +114,7 @@ Decided to make a switch and produce different voltages for different inputs. Ba
 
 Pseudo Code -
 
- insert switch code
+![Image](switch.png)
 
 Trying to use MIDI package to read midi input as well
 
@@ -122,7 +122,7 @@ Trying to use MIDI package to read midi input as well
 
 Thankfully, a few things on our PCB were working. We concluded that our VCO does not work. At least we were able to produce a triangular wave as seen below. 
 
-Insert pic of triangular wave
+![Image](triangle.jpg)
 
 # 29th November 2021 - PLAN B
 
@@ -130,7 +130,7 @@ Figured we need at least something working for the demo. Decided to use Rasberry
 
 We just placed the rasberry pie inside our box. connected the keyboard through USB and a speaker from outside through an aux cable as the rasberry pie has an aux port. Looks like this - 
 
-Insert pic of what it looks like with rasberry pie
+![Image](rasberry.png)
 
 
 # 30th November - Trying to fix PCB
@@ -141,7 +141,7 @@ Used a potentiostat, power supply as well as a breadboard to simulate a VCO to s
 
 Belo picture shows this set up and the point we were probing on the oscilloscope. Thankfully, we saw that we were able to control the amplitude and frequency of this wave and were able to demo it!
 
-Insert image of fake vco 
+![Image](VCO.png)
 
 
 # 3rd December 2021 - Mock presentation advice
