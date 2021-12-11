@@ -106,7 +106,7 @@ Still going through issues with PCB. unable to figure out what and why. Need to 
 
 # 14th November 2021 - Code to produce different voltages
 
-Decided to make a switch and produce different voltages for different inputs. 
+Decided to make a switch and produce different voltages for different inputs. Basically analog write different values that produce different voltages based on keycode input.
 
 Few examples -
 
