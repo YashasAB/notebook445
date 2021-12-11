@@ -162,6 +162,9 @@ Below picture shows this set up and the point we were probing on the oscilloscop
 
 ![Image](VCO.jpg)
 
+# 1st December
+
+Realized using our powersupply produces very noizy results on oscilloscope and settled to use an existing one before our demo. 
 
 # 3rd December 2021 - Mock presentation advice
 
