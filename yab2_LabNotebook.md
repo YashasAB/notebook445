@@ -139,9 +139,9 @@ Decided to try and see what is wrong with the PCB so we can at least show some p
 
 Used a potentiostat, power supply as well as a breadboard to simulate a VCO to see if the knobs could do anything to the waves we were able to produce.
 
-Belo picture shows this set up and the point we were probing on the oscilloscope. Thankfully, we saw that we were able to control the amplitude and frequency of this wave and were able to demo it!
+Below picture shows this set up and the point we were probing on the oscilloscope. Thankfully, we saw that we were able to control the amplitude and frequency of this wave and were able to demo it!
 
-![Image](VCO.png)
+![Image](VCO.jpg)
 
 
 # 3rd December 2021 - Mock presentation advice
