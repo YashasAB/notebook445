@@ -139,13 +139,17 @@ Thankfully, a few things on our PCB were working. We concluded that our VCO does
 
 ![Image](triangle.jpg)
 
-# 29th November 2021 - PLAN B
+# 28th November 2021 - PLAN B
 
-Figured we need at least something working for the demo. Decided to use Rasberry pi to simulate the synthesizer subsystem using software. Also used a standard computer keyboard with USB input to simply accept keycodes on the resberry pie. used standard sd card reading libraries to recieve sd card input. **Proposed format for one note on file on sd card -  8e5 where the number 8 describes the length of the note , the alphabet declares what note to play and the last number determines what octave the note should be in.** 
+Figured we need at least something working for the demo. Decided to use Rasberry pi to simulate the synthesizer subsystem using software. Also used a standard computer keyboard with USB input to simply accept keycodes on the resberry pie. 
 
 We just placed the rasberry pie inside our box. connected the keyboard through USB and a speaker from outside through an aux cable as the rasberry pie has an aux port. Looks like this - 
 
 ![Image](rasberry.png)
+
+# 29th November 2021 - 
+
+used standard sd card reading libraries to recieve sd card input. **Proposed format for one note on file on sd card -  8e5 where the number 8 describes the length of the note , the alphabet declares what note to play and the last number determines what octave the note should be in.** Wrote different files with a series of key notes. Used the number pad on the top row of the keyboard to switch between tracks. 
 
 
 # 30th November - Trying to fix PCB
