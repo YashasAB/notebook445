@@ -2,6 +2,7 @@
 
 ECE 445 - Senior Year Design Project - Affordable Analog Synthesizer - Lab Notebook
 
+
 # 5th September 2021 - Figured out the main features I am responsible for
 
 **Main Features**
@@ -67,8 +68,7 @@ I highly preferrred using the Teensy36 Development board as it has all the featu
 
 
 
-
-# 4th October 2021 - Coming up with tolerance analysis
+# 2nd October 2021 - Recognizing what we can do 
 
 Mainly focused on tolerance analysis for the voltage out. 
 
@@ -95,6 +95,9 @@ Code to find frequencies we can produce based on the voltage values we can produ
 Below code will return the voltage values we can produce in order to produce frequencies closest to a given a list of target frequencies
 
 ![Image](closest_Voltage.png)
+
+
+# 5th October 2021 - Figuring out error
 
 We figured that for our tolerance analysis we will take into account the error rate based on how close the frequencies we can produce are to the target frequencies. 
 
