@@ -63,7 +63,6 @@ Atmega has 980 Hz Duty cycle. So using PWM we can create only certain specific v
 
 Insert photo of formula 
 
-The frequencies we can produce with these limited voltage outputs may not be exactly the same as a certain musical notes frequency we are aiming to produce. 
 
 Here is a graph that shows the frequencies we can produce because of limits faced because of the 980Hz duty cycle. 
 
@@ -71,13 +70,15 @@ Insert photo of graph
 
 
 
+The frequencies we can produce with these limited voltage outputs may not be exactly the same as a certain musical notes frequency we are aiming to produce. 
+
 Code to find frequencies we can produce based on the voltage values we can produce
 
 insert pic of code that gives freqs we can produce
 
-Code that gets us the voltage we can produce that will produce a frequency closest to the target frequencies
+Below code will return the voltage values we can produce in order to produce frequencies closest to a given a list of target frequencies
 
-insert voltage code screenshot
+insert closest voltage code screenshot
         
 
 We figured that for our tolerance analysis we will take into account the error rate based on how close the frequencies we can produce are to the target frequencies. 
@@ -149,6 +150,6 @@ After the mock presentation, we got a bunch of advice. Here is what we need to w
 
 # 5th December
 
-**The final plan - I have to introduce the project, state our goals and also describe the high level organization of the subsystems. Michael then goes into detail with all the parts we have. Breanne takes over in the end and talks about what we could achieve wehre we went wrong, conclusions and future plans**
+**The final plan - I have to introduce the project, state our goals and also describe the high level organization of the subsystems. Michael then goes into detail with all the parts we have. Breanne takes over in the end and talks about what we could achieve where we went wrong, conclusions and future plans**
 
 
