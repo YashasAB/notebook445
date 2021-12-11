@@ -40,6 +40,8 @@ I need to figure out how to verify my part of the project.
 **Proposed data flow**
 insert image of proposed data flow
 
+![Image](https://github.com/YashasAB/notebook445/blob/main/dataflow.jpeg)
+
 # 25th September 2021 - Major updates from PCB review
 
 At the PCB review, while we were talking to a lot of TA's about our plan of action, we learned that the Atmega328P does not have a USB interface and it would be impossible to connect a USB keyboard to it. This would require us to use a keyboard with a MIDI output and also program the microcontroller to receive MIDI input. 
